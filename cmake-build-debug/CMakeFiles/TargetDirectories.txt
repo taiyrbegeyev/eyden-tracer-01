@@ -1,0 +1,3 @@
+/Users/taiyrbegeyev/Documents/Computer_Graphics/eyden-tracer-01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/taiyrbegeyev/Documents/Computer_Graphics/eyden-tracer-01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/taiyrbegeyev/Documents/Computer_Graphics/eyden-tracer-01/cmake-build-debug/CMakeFiles/eyden-tracer.dir
