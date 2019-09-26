@@ -15,8 +15,8 @@ public:
 	 * @param origin Point on the plane
 	 * @param normal Normal to the plane
 	 */
-	CPrimPlane(Vec3f origin, Vec3f normal)
-		: CPrim()
+	CPrimPlane(Vec3f origin, Vec3f normal, Vec3f color)
+		: CPrim(color)
 		, m_normal(normal)
 		, m_origin(origin)
 	{

@@ -15,8 +15,8 @@ public:
 	 * @param center Position of the center of the sphere
 	 * @param radius Radius of the sphere
 	 */
-	CPrimSphere(Vec3f center, float radius)
-		: CPrim()
+	CPrimSphere(Vec3f center, float radius, Vec3f color)
+		: CPrim(color)
 		, m_center(center)
 		, m_radius(radius)
 	{}

@@ -21,6 +21,8 @@ opencv2/opencv.hpp
 /Users/taiyrbegeyev/Documents/Computer_Graphics/eyden-tracer-01/src/CameraPerspective.h
 ICamera.h
 /Users/taiyrbegeyev/Documents/Computer_Graphics/eyden-tracer-01/src/ICamera.h
+math.h
+-
 
 /Users/taiyrbegeyev/Documents/Computer_Graphics/eyden-tracer-01/src/ICamera.h
 ray.h

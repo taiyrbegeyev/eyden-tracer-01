@@ -13,7 +13,7 @@ public:
 	/**
 	* @brief Constructor
 	*/
-	CPrim(void) = default;
+    CPrim(Vec3f color) : m_color(color) {};
 	CPrim(const CPrim&) = delete;
 	virtual ~CPrim(void) = default;
 	const CPrim& operator=(const CPrim&) = delete;
