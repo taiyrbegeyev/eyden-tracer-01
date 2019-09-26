@@ -26,4 +26,10 @@ public:
 	 * @retval false Otherwise
 	 */
 	virtual bool	Intersect(Ray& ray) = 0;
+
+	Vec3f getColor () {
+	    return m_color;
+	}
+private:
+    Vec3f m_color;
 };
